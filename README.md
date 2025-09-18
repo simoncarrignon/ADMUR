@@ -1,14 +1,12 @@
-[![R-CMD-check](https://github.com/simoncarrignon/ADMUR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/simoncarrignon/ADMUR/actions/workflows/R-CMD-check.yaml)
-
 <a href="https://github.com/UCL"><img src="tools/logos/logo_UCL.png" alt="UCL Research Software Development" height="70"/></a>
 <a href="https://www.ucl.ac.uk/biosciences/gee/molecular-and-cultural-evolution-lab"><img src="tools/logos/logo_MACElab.png" alt="UCL Research Software Development" height="70"/></a>
 <a href="https://www.shh.mpg.de"><img src="tools/logos/logo_MPI.png" alt="Max Planck Institute for the Science of Human History" height="70"/></a>
 <a href="https://www.shh.mpg.de/1143811/pan-ev"><img src="tools/logos/logo_PanEv.png" alt="Pan African Evolution ResearchGroup" height="70"/></a>
 
-
 # ADMUR
 ## Ancient Demographic Modelling Using Radiocarbon
 
+[![R-CMD-check](https://github.com/simoncarrignon/ADMUR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/simoncarrignon/ADMUR/actions/workflows/R-CMD-check.yaml)
 
 Statistical tools to directly model underlying population dynamics using date datasets (radiocarbon and other). 
 
