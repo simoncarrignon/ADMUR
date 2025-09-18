@@ -129,6 +129,7 @@ Generating the SPD without the wrapper gives you more control, and requires a tw
 This is useful for improving computational times if generating many SPDs, for example in a simulation framework, since the CalArray needs generating only once. 
 
 ```{r, eval = TRUE, fig.height = 3, fig.width=7, fig.align = "center", dev='jpeg', quality=100, warning=FALSE}
+data(intcal20)
 data <- data.frame( age = c(9144), sd=c(151) )
 CalArray <- makeCalArray( calcurve=intcal20, calrange=c(8000,13000) )
 cal <- summedCalibrator(data, CalArray)
